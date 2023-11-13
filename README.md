@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlosEcl06,
-- I'm an undergraduate student of Medical Informatics in Medical School of Ribeirão Preto.
+- I'm an undergraduate student of Health Informatics in Medical School of Ribeirão Preto.
 
 [![@carlos_ecl06's Holopin board](https://holopin.io/api/user/board?user=carlos_ecl06)](https://holopin.io/@carlos_ecl06)
 
