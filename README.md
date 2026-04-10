@@ -8,20 +8,9 @@
 
 ---
 
-## 🛠️ Tech & Tools
-
-- **Languages:** Python, R, Bash
-- **Bioinformatics:** metagenomics, genome assembly, BGC analysis
-- **Tools:** bbduk, IDBA-hybrid, MetaQUAST, minimap2
-- **Systems:** Linux (Rocky Linux)
-
----
-
 ## 📌 Current Projects
 
-- 🔬 Microbial signatures in metastatic cancer (focus on *Proteobacteria* and *Bacteroidota*)
-- 🧩 Identification of **Biosynthetic Gene Clusters (BGCs)** associated with carcinogenesis
-- 🧬 Exploration of **Borg-like genomic elements** in environmental samples
+- 🧩 Identification of bacterial **Biosynthetic Gene Clusters (BGCs)** associated with carcinogenesis
 
 ---
 
@@ -35,12 +24,9 @@
 
 ## 🎵 Fun fact
 
-Probably coding while listening to **Linkin Park** or eurobeat 🚗💨  
-(*Back on the Rocks intensifies*)
+Probably coding while listening to **Titãs** right now
 
 ---
-
-## 🏅 Holopin Badges
 
 [![@carlos_ecl06's Holopin board](https://holopin.io/api/user/board?user=carlos_ecl06)](https://holopin.io/@carlos_ecl06)
 
