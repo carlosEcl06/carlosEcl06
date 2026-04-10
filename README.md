@@ -12,6 +12,8 @@
 
 - 🧩 Identification of bacterial **Biosynthetic Gene Clusters (BGCs)** associated with carcinogenesis
 
+- 🚩 Side quest: RaguTimer, a pomodoro-based productivity app with a twist. News very soon!
+
 ---
 
 ## 🎯 Interests
